@@ -86,7 +86,7 @@ nav{
     display: block;
 }
 #nav-toggle{
-    display: none
+    display: none;
 }
 .nav-toggle-label{
     font-size: 2rem;
@@ -97,6 +97,7 @@ main{
     background-color: lightblue;
     /* Make the Main stretch to fill the screen to make sure footer is at the bottom of the page*/
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 /*footer*/
 footer{
