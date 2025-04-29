@@ -125,15 +125,23 @@ footer{
 
     
     #logo {
-        font-size: 300%;
+        font-size: 200%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    /* Adjustment for main body on tablet min-width 768px */
 
-    /* Main */
+
+    /* Main content */
     main{
+        /* Push main content down to accomodate larger header- Adjustment for main body on tablet min-width 768px */
         margin-top: 79px;
     }
+}
+/* LArge devices (laptops and desktops , 992px and up) */
+@media screen and (min-width: 992px){
 
+    /* Add hover functionality for menu items */
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
 }
