@@ -101,6 +101,7 @@ main{
 }
 /*footer*/
 #social-networks{
+    /* applying styles to icons */
     text-align: center;
     padding: 20px 0;
     display: flex;
