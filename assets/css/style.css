@@ -122,4 +122,18 @@ footer{
     .nav-toggle-label {
         display:none;
     }
+
+    
+    #logo {
+        font-size: 300%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+    /* Adjustment for main body on tablet min-width 768px */
+
+    /* Main */
+    main{
+        margin-top: 79px;
+    }
+
 }
