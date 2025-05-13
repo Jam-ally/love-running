@@ -175,6 +175,16 @@ main {
   justify-content: center;
 }
 
+/* Meet up times */
+
+#times{
+  background: url("../images/dublin-city.webp") no-repeat center / cover;
+ 
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
 /* Footer */
 #social-networks {
   /* applying styles to icons */
