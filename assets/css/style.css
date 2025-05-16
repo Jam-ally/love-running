@@ -11,6 +11,7 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
+  
 }
 
 /* Asterix wildcard selector to override default stles added by the browser */
@@ -148,7 +149,7 @@ main {
 #benefits-mental > div {
   line-height: 20px;
   margin-bottom: 20px;
-    align-content: top;
+
 }
 
 #benefits > hr {
@@ -313,7 +314,7 @@ main {
     position: relative;
     box-shadow: none;
     width: fit-content;
-    padding-right: 0 1rem;
+    padding-right: 1rem;
   }
   #menu {
     display: flex;
